@@ -41,4 +41,4 @@ const isCecked = true,
 console.log(!isClosed);
 
 console.log(5 == 6 - 1);
-console.log(2 + 3 * 2 === '8')
+console.log(2 + 3 * 2 === '8');
